@@ -25,7 +25,7 @@ class GonderiKarti extends StatelessWidget {
       child: Material(
         borderRadius: BorderRadius.circular(13),
         child: Container(
-          padding: EdgeInsets.all(15),
+          padding: EdgeInsets.all(20),
           width: double.infinity,
           height: 380.0,
           decoration: BoxDecoration(
